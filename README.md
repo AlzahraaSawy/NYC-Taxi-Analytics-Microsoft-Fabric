@@ -41,8 +41,12 @@ The data pipeline consists of 4 main stages:
 ---
 
 ## 📁 Repository Structure
-- `docs/`
-        |_pl_stg_processing_nyctaxi.md
-        |_pl_pres_processing_nyctaxi.md
-        |_pl_orchestration_nyctaxi.md
 
+```text
+├── docs/
+│   ├── pl_stg_processing_nyctaxi.md
+│   ├── pl_pres_processing_nyctaxi.md
+│   └── pl_orchestration_nyctaxi.md
+└── README.md
+
+```
