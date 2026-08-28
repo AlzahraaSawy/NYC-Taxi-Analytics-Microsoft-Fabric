@@ -41,4 +41,8 @@ The data pipeline consists of 4 main stages:
 ---
 
 ## 📁 Repository Structure
-- `SQL/` : T-SQL scripts for Staging, Presentation tables, and Stored Procedures.
+- `docs/`
+        |_pl_stg_processing_nyctaxi.md
+        |_pl_pres_processing_nyctaxi.md
+        |_pl_orchestration_nyctaxi.md
+
